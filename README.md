@@ -1,2 +1,2 @@
-# SW---Lushen-Bot
+# Lushen Bot
 .
